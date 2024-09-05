@@ -1,4 +1,4 @@
-[ The below code was scraped off the Wikipedia article for Brainfuck on 9/5/2024, 12:59 pm ]
+[ The below code was scraped off the Wikipedia article for Brainfuck on 9/5/2024, 12:59 pm. ]
 
 
 
